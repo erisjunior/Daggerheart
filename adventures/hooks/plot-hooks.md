@@ -23,7 +23,14 @@ Personal hooks tied to individual PC backstories or goals.
 
 | Hook | Character | Status | Notes |
 |------|-----------|--------|-------|
-|      |           | unused |       |
+| Father's disappearance — left no belongings behind, uncle is lying | Alexander | unused | Strong Act 1 hook; uncle is key NPC |
+| Dark focal points draining natural energy from the land | Korapika | unused | Connects to main threat; Llefys shares this |
+| Shadow-spirits that killed his adopted hunter parents | Llefys | unused | Same phenomenon as Korapika's focal points |
+| Illegitimate daughter of an elven king — knows her father's identity | Sympla | unused | Slow-burn political thread; possible Llefys tie |
+| Carries an unknown ancient song taught by the queen | Aroldo | unused | Payoff when someone recognizes it |
+| Sympla and Llefys may share the same elven court rejection | Sympla / Llefys | unused | Reveal when dramatically right |
+| Alexander's fragmented childhood memory — smoke, a departing figure | Alexander | unused | Long-arc origin mystery |
+| The master's daughter blames Korapika for her father's death | Korapika | unused | Recurring NPC emotional thread |
 
 ---
 
