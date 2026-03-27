@@ -21,6 +21,18 @@ Campaign is three sessions in. Running in Portuguese. City base is Parnamirim.
 
 **The bubbling sound** — heard twice (arriving in Husk, approaching the tower). No explanation yet. Locals did not react.
 
+**SESSION 4 DESIGNED (2026-03-26) — "O Coração Frio":**
+- First Prismatic Fragment located: the Coração Frio clearing, east of Parnamirim.
+- Fragment type: Fragmento de Sombra e Espelho — resonates with Sympla (illusion, dual identity, what is hidden). Mechanic: Sombra-Projeção (once per session, Presence roll Difficulty 12, ilusão de versões-sombra).
+- Fragment was a SEAL over a dark focal point. Removing it opened the seal — something beneath the ground is now unsealed. New active clock.
+- Korapika recognizes the Coração Frio as identical to the place his master died — same dark focal point pattern. He now understands: Fragments are seals, not ransom items. This changes the entire equation of Savage Ciph's demand.
+- When the Fragment is used significantly, Savage Ciph feels it — he doesn't know where, only that a Fragment was activated.
+- NPCs introduced: VAEL (half-elf, Sympla's ex, member of Trupe Carmesim — chose the Trupe over Sympla years ago, still loves her, won't admit it, afraid of what's in the Coração Frio), MIRA SANS (human leader of Trupe Carmesim, pragmatic, negotiates before fighting, didn't know what the Fragment was — only that someone would pay for it).
+- The bubbling sound was heard a third time on the return journey — more consistent, almost like breathing, seemed to come from underground (Llefys may detect this with Difficulty 15 Instinct/Finesse).
+- Hook for Session 5: A message awaits at the guild, signed in Kshan's name but in different handwriting, referencing a detail from that night no one could know. Contains instructions for a meeting outside the city in two days.
+- Session 4 Trupe Carmesim clock: RESOLVED — encounter happened, alliance possible but unconfirmed.
+- New open clock: Dark focal point at Coração Frio now unsealed. Timeline TBD.
+
 **SABLEWOOD SOURCEBOOK INTEGRATED (2026-03-26):**
 - "Husk" is officially "Hush" in the sourcebook. Players know it as Husk — discrepancy is a potential narrative hook (memory distortion? Savage Ciph?).
 - Hush is governed in secret by the Faceless Six (Os Seis Sem Rosto). Players have not discovered this. The Whitefire Arcanist maintains the four dwarven-stone ward pillars.
