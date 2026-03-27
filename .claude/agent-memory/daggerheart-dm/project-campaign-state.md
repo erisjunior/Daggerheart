@@ -17,9 +17,20 @@ Campaign is three sessions in. Running in Portuguese. City base is Parnamirim.
 
 **Savage Ciph's demonstrated powers:** Memory suppression across a group (erased Aroldo from everyone's perception during Session 2); illusion creation (dragon that was actually Aroldo); killed the tower guard; kingdom-scale chaos and assassination. Thematic domains: lies, forgetting, making people lose things, time distortion, erasing people from others' memories.
 
-**The Maga Branca** (fairy, Husk's magical guardian) is an established ally. Llefys has a personal connection to her. She was to carry the protection amulet back to Parnamirim — status unknown.
+**The Maga Branca** (fairy, Husk's magical guardian = the Whitefire Arcanist from official Sablewood sourcebook) is an established ally. Llefys has a personal connection to her. She was to carry the protection amulet back to Parnamirim — status unknown.
 
 **The bubbling sound** — heard twice (arriving in Husk, approaching the tower). No explanation yet. Locals did not react.
+
+**SABLEWOOD SOURCEBOOK INTEGRATED (2026-03-26):**
+- "Husk" is officially "Hush" in the sourcebook. Players know it as Husk — discrepancy is a potential narrative hook (memory distortion? Savage Ciph?).
+- Hush is governed in secret by the Faceless Six (Os Seis Sem Rosto). Players have not discovered this. The Whitefire Arcanist maintains the four dwarven-stone ward pillars.
+- Sympla abused hospitality in Hush (stole from a local couple). "Leave it to the trees" is a real threat — Young Dryads are summoned against those who violate hospitality. Consequence pending if group returns.
+- The tower they investigated IS one of the Spires (Espiras) from the sourcebook. The Spires form a protection network. Corrupting one node may weaken the entire network. Savage Ciph may understand this.
+- OPEN VALE is a direct narrative counter to Savage Ciph's memory erasure. The Vale remembers everyone who ever entered. Players could recover erased memories there. Path to the Vale requires leaving known trails — dangerous. Savage Ciph may know about this.
+- The Lucent River ("Lucy") glows blue at moonrise (LUZALUA). Its healing water resonates directly with Llefys's moon blessing and Moon Collar. Use this when the group approaches the river.
+- Root's Hollow is a Underroot community with The Latch — an elevator descending to unknown depths, used by the council once per season. Possible connection to Aroldo's underground village and to Korapika's dark focal points.
+- Yikyik Trahll is a Katari NPC (shortened tail from childhood fight) from the Thistlefolk faction. Possible contact for Sympla (half-Katari).
+- High Falls cave has a carved stone throne, illegible symbols, and an old blood stain. Possible connection to Savage Ciph's origin or forbidden magic arc.
 
 **The shadow spirits** that attacked during the Husk ritual are the same ones that killed Llefys's adoptive parents (Arven and Mirela). Possible Savage Ciph connection unresolved.
 

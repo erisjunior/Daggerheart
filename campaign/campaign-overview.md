@@ -274,6 +274,46 @@ Brief notes:
    whose contents are known to no one currently living — except possibly the
    Lorekeeper, who has not said so.
 
+6. **O Vale Aberto como contramedida a Savage Ciph.**
+   O Vale Aberto de Sablewood preserva a memória de todos que já entraram nele.
+   Savage Ciph suprime e apaga memórias — esse é um de seus poderes mais
+   perigosos. O Vale é, literalmente, o oposto disso: um lugar onde o
+   esquecimento não funciona.
+   Se o grupo chegar ao Vale Aberto, podem recuperar o que foi apagado:
+   as memórias que Aroldo perdeu na torre, o que foi feito a Llefys pelo
+   tribunal élfico, e possivelmente outros apagamentos que o grupo ainda
+   não sabe que sofreu.
+   O caminho até o Vale não está em nenhum mapa. Para chegar lá, o grupo
+   precisaria abandonar os caminhos sulcados de Sablewood — o que em
+   condições normais significa nunca mais retornar. Há um custo real para
+   alcançar o contraforte do vilão.
+   Savage Ciph sabe que o Vale existe. Não está claro se ele sabe que o
+   grupo poderia usá-lo contra ele.
+
+7. **As Espiras e a rede de proteção de Sablewood.**
+   As Espiras não são apenas torres com Guardiões individuais. Elas formam
+   uma rede mágica. Savage Ciph corrompeu uma Espira — possivelmente
+   de forma deliberada. Se ele entende a rede, pode estar planejando
+   corromper mais pontos para abrir Sablewood a algo que a floresta
+   tem mantido fora há séculos.
+   Os Seis Sem Rosto de Hush provavelmente sabem disso. Eles não falaram.
+
+8. **O Trono da Caverna da Grande Queda.**
+   Por trás da cachoeira do Rio Lucente há um trono de pedra com símbolos
+   ilegíveis e uma mancha de sangue antiga no chão. Este lugar não é
+   mencionado em nenhum documento da guilds ou dos elfos. Sua existência
+   predaz todas as fações conhecidas.
+   Possível uso narrativo: origem de Savage Ciph, ou de a magia proibida
+   que ele domina. A ser definido conforme o arco avança.
+
+9. **O Rio Lucente e o arco de Llefys.**
+   O Rio Lucente brilha azul sob a luz da lua — fenômeno chamado Luzalua.
+   Sua água tem propriedades curativas ligadas à luz lunar. Essa ressonância
+   é direta com a benção lunar de Llefys e seu Colar da Lua.
+   Quando o grupo chegar ao Rio Lucente, Llefys pode sentir algo que os
+   outros não sentem. O rio pode ser uma fonte de poder para seu arco de
+   Escolhido da Lua — ou uma prova de que ele não é o único escolhido.
+
 ---
 
 ## Planted Foreshadowing (Unpaid)
