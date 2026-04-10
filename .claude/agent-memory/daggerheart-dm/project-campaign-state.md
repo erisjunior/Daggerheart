@@ -1,10 +1,10 @@
 ---
-name: Campaign State — After Session 3
-description: Current plot state, active threats, active clocks, and key open threads after three sessions of play
+name: Campaign State — After Session 5
+description: Current plot state, active threats, active clocks, and key open threads after five sessions of play
 type: project
 ---
 
-Campaign is three sessions in. Running in Portuguese. City base is Parnamirim.
+Campaign is five sessions in. Running in Portuguese. City base is Parnamirim.
 
 **Central conflict declared:** Savage Ciph (Sa-Ci) — inspirado no Saci-Pererê do folclore brasileiro. Uma perna só, calças vermelhas chamuscadas. Divine/semi-divine. Has seized the king, killed important figures, and demands the Prismatic Fragments as ransom — to be delivered at a festival he himself will organize.
 
@@ -30,8 +30,20 @@ Campaign is three sessions in. Running in Portuguese. City base is Parnamirim.
 - NPCs introduced: VAEL (half-elf, Sympla's ex, member of Trupe Carmesim — chose the Trupe over Sympla years ago, still loves her, won't admit it, afraid of what's in the Coração Frio), MIRA SANS (human leader of Trupe Carmesim, pragmatic, negotiates before fighting, didn't know what the Fragment was — only that someone would pay for it).
 - The bubbling sound was heard a third time on the return journey — more consistent, almost like breathing, seemed to come from underground (Llefys may detect this with Difficulty 15 Instinct/Finesse).
 - Hook for Session 5: A message awaits at the guild, signed in Kshan's name but in different handwriting, referencing a detail from that night no one could know. Contains instructions for a meeting outside the city in two days.
-- Session 4 Trupe Carmesim clock: RESOLVED — encounter happened, alliance possible but unconfirmed.
+- **SESSION 4 ACTUAL EVENTS (2026-04-08, played in session 5 slot):**
+  - Party chose to follow Trupe Carmesim instead of the map clue.
+  - Korapika severely disturbed by the dark energy of the sombra forest — not same source as his master's death, but similar signature.
+  - Trupe duo (Vael + Mira Sans) knew they were being followed. Campfire confrontation. Vael recognized Sympla; she remembered him.
+  - Party threatened the duo. Trupe refused to help, told them to go alone. Mira Sans was harsh.
+  - Korapika, consumed by dark energy, attacked Mira Sans. Party couldn't stop him in time.
+  - RESULT: Both Vael and Mira Sans KILLED. Bodies burned. DM did not expect Vael to die.
+  - Party angry but accepted dark energy as cause. Korapika carries this weight.
+  - Sympla permanently lost Vael — no reconciliation possible.
+  - Group now heading to Coração Frio (first dream fragment location).
+  - New enemy type encountered: ash shadows (cinza shadows) — NOT spirits/ghosts, but physical ash-form entities. Different from all prior shadow encounters.
+- **Trupe Carmesim clock: COLLAPSED** — Vael and Mira Sans dead, faction without known leadership.
 - New open clock: Dark focal point at Coração Frio now unsealed. Timeline TBD.
+- **DM DESIGN NOTE:** Light may be the right path for Sympla's power arc, NOT shadow — because Llefys is the child of shadows. The Shadow+Mirror Fragment at Coração Frio may resonate with Llefys instead. Sympla's true fragment may be light-aligned. This creates narrative tension: the "obvious" match isn't the right one.
 
 **SABLEWOOD SOURCEBOOK INTEGRATED (2026-03-26):**
 - "Husk" is officially "Hush" in the sourcebook. Players know it as Husk — discrepancy is a potential narrative hook (memory distortion? Savage Ciph?).
