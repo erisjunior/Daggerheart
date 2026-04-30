@@ -1,123 +1,161 @@
 ---
-title: "Sessão 4 (jogada como 5): Cinzas e Sombras"
-session: 4
-status: Jogado
-date: 2026-04-08
-spotlight-pc: Korapika (consumido pela escuridão) + Sympla (Vael) + Vael (morreu)
+title: "Sessão 5: A Luz no Fundo do Frio"
+session: 5
+status: Planejado
+date: TBD
+spotlight-pc: Sympla (fragmento acorda) + Korapika (entende o selo) + Aroldo (a música tem memória)
 ---
 
-# SESSÃO 4: CINZAS E SOMBRAS — O QUE ACONTECEU DE VERDADE
-
-> **Nota do Mestre:** Esta sessão foi jogada no slot da Sessão 5, mas cobre os eventos da Sessão 4.
-> Divergiu bastante do planejado.
-> O grupo decidiu seguir a Trupe Carmesim ao invés de seguir a pista do mapa.
-> O encontro com Vael e Mira Sans terminou em morte — o que não era esperado.
+# SESSÃO 5: A LUZ NO FUNDO DO FRIO
 
 ---
 
-## DECISÃO INICIAL
+## ONDE ESTAMOS
 
-O grupo ficou em dúvida entre:
-- Seguir a pista do mapa (direção desconhecida)
-- Seguir a Trupe Carmesim
-
-**Escolheram seguir a Trupe.**
+O grupo está no Coração Frio. O fragmento está encravado na pedra central da clareira.
+As sombras de cinza emergem do chão ao redor dele. O buraco sob a terra já está parcialmente aberto.
 
 ---
 
-## A FLORESTA SOMBRIA
+## COMBATE — SOMBRAS DE CINZA
 
-Durante a travessia pela floresta, Korapika sentiu um desconforto real e crescente.
-A energia maligna do local o afetou fisicamente — não eram as mesmas forças que mataram
-seu mestre (ele morreu lutando contra bandidos), mas a assinatura era perturbadoramente
-parecida. Isso o deixou mais tenso conforme avançavam.
+As sombras não atacam o grupo primeiro. Atacam quem se aproximar do fragmento.
+Função delas: consumir o fragmento de volta para dentro da terra.
 
-O caminho que seguiram sempre existiu, mas nunca havia sido considerado antes.
-O ambiente foi mudando — cada vez menos vida, menos som, menos presença natural.
+**Fraqueza:** luz intencional — não fogo. Tocha comum as força a recuar. Magia de luz faz dano duplo.
+Isso é uma pista sobre o que o fragmento é.
 
----
+**Se alguém que não Sympla pegar o fragmento:** sente frio. A pedra não reage. É uma rocha comum.
 
-## O ENCONTRO NA LAREIRA
+**Quando Sympla pega:**
 
-A Trupe parou numa lareira. A dupla — **Vael** e **Mira Sans** — sabia que estavam sendo seguidos.
+- Luz branca irrompe da pedra
+- Por um segundo o grupo vê o que está embaixo — um buraco fundo demais para medir, bordas como carne rasgada
+- As sombras recuam e se dissolvem
+- O buraco fecha pela metade — não completamente
 
-- **Vael** reconheceu **Sympla**. Ela se lembrou dele.
-- A tensão entre eles foi imediata — ele foi quem escolheu a Trupe sobre ela, anos atrás.
-- Mira Sans manteve postura rispida e dominante.
-
-O grupo tentou negociar ou obter ajuda.
-A dupla recusou — disse para irem sozinhos, que não era problema deles.
+> O fragmento _era_ o que mantinha o buraco fechado. Tirar e recolocar são coisas diferentes.
+> O buraco vai continuar gerando sombras até ser selado com o ritual correto.
 
 ---
 
-## O ATAQUE DE KORAPIKA
+## A REVELAÇÃO DO SELO
 
-Consumido pela energia sombria do local, **Korapika atacou Mira Sans**.
+Korapika viu o padrão. Ele conhece esse buraco — é idêntico ao lugar onde seu mestre morreu.
 
-O grupo tentou impedi-lo — mas chegaram tarde demais.
+> _"O meu mestre morreu num lugar exatamente assim. Eu pensei que era energia ruim acumulada. Mas era um buraco. E o fragmento é o que o fechava."_
 
-**A luta foi intensa.** O grupo apanhou muito. Mas no final:
-- **Mira Sans** foi morta.
-- **Vael** foi morto.
+**O que o grupo agora sabe:**
 
-Os corpos foram queimados para não deixar rastros.
+- Fragmentos são selos, não tesouros
+- Savage Ciph está pedindo os selos como resgate
+- Entregar os fragmentos deixa os buracos abertos permanentemente
 
-> **Nota do Mestre:** Vael morrer não estava previsto. Foi o caminho que o jogo escolheu.
-> Os jogadores ficaram bravos, mas entenderam a influência da energia negativa sobre Korapika.
-> Esse foi um momento de consequência real e irreversível.
+**Aroldo** começa a cantarolar sem perceber — a melodia da música antiga de Hitori.
+Korapika nota que a terra reage levemente. Não fecha nada. Mas ouve.
 
----
-
-## RESULTADO DO ENCONTRO COM A TRUPE CARMESIM
-
-| NPC | Status |
-|-----|--------|
-| Vael (meio-elfo, ex de Sympla) | **Morto** |
-| Mira Sans (líder humana da Trupe) | **Morta** |
-| Trupe Carmesim (facção) | Provavelmente desorganizada — sem liderança conhecida |
+> Semente plantada: a música está conectada ao ritual de selagem. Aroldo não sabe disso ainda.
 
 ---
 
-## SEGUINDO PARA O FRAGMENTO
+## A VOLTA — CAMINHO ATÉ PARNAMIRIMg
 
-Com a energia negativa parcialmente entendida (mas não resolvida), o grupo seguiu em direção
-ao local do **primeiro fragmento onírico** — o Coração Frio.
+### O silêncio
 
-### As Sombras de Cinza
+Sem pássaros. Sem insetos. Sem vento. O silêncio acompanha o rupo como uma bolha.
+Não é ameaça — é atenção. A floresta está prestando atenção neles.
 
-No caminho ou já no local, **sombras os atacaram** — mas eram **diferentes das que encontraram antes**.
+### As bolhas
 
-- Não eram fantasmas.
-- Eram **amontoados de cinzas** com forma e presença.
-- Uma nova categoria de ameaça sombria foi introduzida.
+Mais constantes agora. Quase rítmicas. Subterrâneas, em múltiplos pontos ao mesmo tempo.
 
-> **Nota do Mestre:** Isso sugere que a ruptura do ponto focal já está gerando manifestações
-> de uma natureza diferente — não espíritos presos, mas algo que emerge da escuridão material.
+- **Llefys** — Instinto Dificuldade 15: percebe que o som vem de vários pontos e que o padrão muda conforme caminham. Algo os rastreia por baixo.
+- **Korapika** — sente um fio. A assinatura sombria da floresta não foi embora. Algo o reconheceu no Coração Frio e não quer perdê-lo.
 
----
+### Chegando à cidade
 
-## REFLEXÃO DO MESTRE — SYMPLA E A LUZ
-
-A consideração para o arco da Sympla:
-
-> *"Imagino que a luz seja um caminho melhor para dar esse poder a Sympla,
-> já que Llefys é o filho das sombras."*
-
-**Implicação narrativa:**
-- O **Fragmento de Sombra e Espelho** (Coração Frio) foi pensado para Sympla — mas talvez
-  não seja o certo para ela.
-- **Llefys** é o Escolhido da Lua, filho das sombras, e tem afinidade natural com escuridão/espelhos.
-- Sympla pode ter um arco de **luz** — talvez o próximo fragmento ressoe diferente com ela.
-- Isso criaria uma tensão interessante: o fragmento "óbvio" para Sympla não é o certo;
-  o certo está em outro lugar.
+Parnamirim parece normal. Mas há algo errado no ritmo das pessoas — conversas que param no meio, esquecimentos pequenos e sem razão. Savage Ciph está ativo na cidade, ainda que sutilmente.
 
 ---
 
-## ESTADO NO FINAL DA SESSÃO
+## NA GOALAH — A MENSAGEM
 
-- Grupo está próximo ou dentro do Coração Frio.
-- Sombras de cinza foram enfrentadas (resultado não registrado — consultar jogadores).
-- Vael e Mira Sans estão mortos; Trupe Carmesim sem liderança.
-- Korapika carrega o peso de ter sido o gatilho do combate.
-- Sympla perdeu Vael de vez — sem possibilidade de reconciliação.
-- O fragmento onírico ainda não foi tocado (ou acabou de ser tocado).
+Na caixa do grupo, um envelope. Assinado: _KSHAN_.
+
+> _"Vocês voltaram. Bom. Há coisas que precisamos discutir fora de ouvidos errados. Dois dias. A noite do mercado fechado. O celeiro da família Orren, estrada norte, meia hora de caminhada. Venham sozinhos, ou não venham."_
+>
+> _"Eu sei o que vocês encontraram. Isso muda tudo."_
+
+**Problemas com a mensagem:**
+
+- A caligrafia não é a de KSHAN — mais inclinada, os "e"s diferentes
+- Ela sabe que eles "voltaram" e o que encontraram. KSHAN não estava com eles
+
+### Encontrando KSHAN na guilda
+
+- Um veterano da GOALAH, vendo KSHAN passar: _"Ele tá diferente desde a última lua. Parece menor. Não sei explicar."_
+- Se alguém usar o apelido **"sapo"** casualmente: KSHAN não reage. Uma pessoa que tem um apelido reage ao ouvi-lo.
+- Se Sympla usar o fragmento perto dele: a luz pulsa fraca, como se encontrasse resistência.
+
+---
+
+## A REUNIÃO NO CELEIRO (se o grupo for)
+
+O falso KSHAN não ataca. Sonda.
+
+Quer saber: vocês encontraram alguma coisa? O que sabem sobre o que a pedra faz? Alguém mais sabe que foram?
+
+Parece conversa de mestre com aprendizes. Mas as perguntas convergem sempre para os mesmos pontos.
+
+**O momento de ruptura:** Se Sympla tirar o fragmento, a luz bate no falso KSHAN e por menos de um segundo a sombra dele não acompanha o movimento do corpo. Ela se atrasa.
+
+Ele encerra a reunião logo depois. Educado. Com desculpa plausível. O grupo vai embora sabendo.
+
+---
+
+## O QUE ACONTECEU COM KSHAN (para o Mestre)
+
+O KSHAN real — meio-rato — era guardião silencioso dos fragmentos. Aprendeu sobre os selos através de registros antigos da GOALAH e passou décadas garantindo que as guildas não perturbassem os pontos focais. Quando Savage Ciph voltou, reconheceu o que estava acontecendo e tentou mover peças.
+
+Foi tarde demais.
+
+Savage Ciph **não o matou**. Extraiu memórias, padrões de fala, história pessoal — e colocou um servo no lugar. Uma entidade sem raça definida que usa o que foi capturado para imitar.
+
+**O KSHAN real está vivo, mas ausente de si mesmo.** Em suspensão, em algum lugar.
+
+> Pista futura: no Vale Aberto (que lembra todos os que entraram), as memórias de KSHAN podem ser recuperadas — e o que ele sabia sobre os fragmentos pode ser a chave para encontrar o próximo.
+
+---
+
+## SEMENTES PARA A SESSÃO 6
+
+### A visão de Sympla
+
+Na primeira vez que usar o fragmento com intenção, ela vê um flash:
+
+> Mãos de uma mulher mais velha, calejadas, com tinta embaixo das unhas. Enterrando uma luz pequena dentro de uma pedra oca. Pessoas ao redor. Uma delas cantarolando.
+
+A melodia é a de Aroldo. A sessão termina antes de ele saber.
+
+### O próximo fragmento
+
+Um comerciante ou arquivista da cidade menciona, sem importância:
+
+> _"Luz estranha perto das Cachoeiras Altas semana passada. Não fogo. Luz, como se o sol tivesse descido pro chão. Três minutos e sumiu."_
+
+O mapa que o grupo não seguiu aponta para a região montanhosa ao norte. As Cachoeiras Altas ficam lá.
+
+---
+
+## ESTADO AO FIM DA SESSÃO
+
+| Elemento                  | Estado                                        |
+| ------------------------- | --------------------------------------------- |
+| Fragmento de Sympla       | Ativo — portadora confirmada                  |
+| Buraco no Coração Frio    | Meio aberto — vai continuar gerando sombras   |
+| KSHAN real                | Preso; vivo; fora de si                       |
+| Falso KSHAN               | Suspeito pelo grupo; ainda não confrontado    |
+| A música de Aroldo        | Conectada aos selos — ele ainda não sabe      |
+| As bolhas                 | Rastreando o grupo por baixo; mais constantes |
+| O fio sombrio de Korapika | Algo o reconheceu e não largou                |
+| Cachoeiras Altas          | Rumor de luz — próximo fragmento              |
